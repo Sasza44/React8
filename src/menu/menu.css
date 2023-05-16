@@ -1,0 +1,26 @@
+.card{
+    width:300px;
+    height: auto;
+    background-color: coral;
+    font-size: 20px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    color:black;
+}
+img{
+    width: 100%;
+}
+button{
+    width: 50%;
+    background-color: aquamarine;
+    cursor: pointer;
+    
+}
